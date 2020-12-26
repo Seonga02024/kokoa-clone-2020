@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css2?family=Audiowide&family=Montserrat&display=swap");
+@import "reset.css";
+@import "components/status-bar.css";
+@import "variables.css";
+@import "login.css";
+@import "components/nav-bar.css";
+@import "components/screen-header.css";
+@import "components/friends.css";
+@import "components/user-component.css";
+
+body {
+  font-family: "Audiowide", cursive;
+  font-family: "Montserrat", sans-serif;
+  height: 1000vh;
+  color: 2363ee;
+}
