@@ -7,10 +7,22 @@
 @import "components/screen-header.css";
 @import "components/friends.css";
 @import "components/user-component.css";
+@import "components/badge.css";
+@import "components/find.css";
+@import "components/icon-row.css";
+@import "components/more.css";
+@import "components/alt-screnn-header.css";
+@import "components/settings.css";
+@import "components/chat.css";
+@import "components/no-mobile.css";
 
 body {
   font-family: "Audiowide", cursive;
   font-family: "Montserrat", sans-serif;
   height: 1000vh;
   color: 2363ee;
+}
+
+.main-screen {
+  padding: 0px var(--horizontal-space);
 }
